@@ -24,3 +24,9 @@ This file contains the analysis performed using Python. Plots are generated, dis
 ## case_solution.pdf
 
 Quickly translated and adjusted case solution, containing the stated problem and my solution.
+
+## requirements.txt
+
+libraries needed to run data_synthesis.py and main.py
+
+
